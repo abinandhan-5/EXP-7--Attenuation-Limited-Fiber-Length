@@ -1,5 +1,5 @@
 
-# Attenuation Measurement 2.5 GB & 10 GB
+# EXP-7: Attenuation Measurement 2.5 GB & 10 GB
 # Attenuation-Limited Fiber Length
 
 ## Aim
@@ -82,4 +82,15 @@ Your report should contain:
   |-------------------|-----------------------|----------|-----|
   
 
-- **Written Summary** of observations and explanations of differences.  
+- **Written Summary** of observations and explanations of differences.
+
+  ## Tabulation and Calculation
+
+![WhatsApp Image 2026-03-22 at 9 12 20 PM (3)](https://github.com/user-attachments/assets/5352f111-135a-4c2e-81cb-225ed7513617)
+![WhatsApp Image 2026-03-22 at 9 12 22 PM](https://github.com/user-attachments/assets/3744f7e8-e475-4196-8d6b-9da6a1a5af14)
+
+
+
+  ## Result
+  Thus the attenuation-limited fiber length based on the power budget equation is calculated and the result simulated is verified.
+  
